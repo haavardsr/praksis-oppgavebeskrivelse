@@ -3,8 +3,6 @@
 
 
 ### Beskrivelse fra Sikri
-    
-    Fritekstsøk med presentasjon av søkeresultat
 
 Hvordan gjennomføre søk som går på tvers av systemer levert 
 av forskjellige leverandører? Mange sitter med historiske 
@@ -22,5 +20,9 @@ data vedkommende ikke burde ha sett?
 
 
 ### Våre forventninger
+
+Få godt læringsutbytte og lære noe som jeg kommer til å ha bruk for videre i arbeidslivet.Vi ønsker å lære om utvikling og hvordan det er å jobbe i som team på en bedrift. 
+Vi forventer oss et arbeidsmiljø som legger til rette for god kvalitet i produkt. Fra Sikri forventer vi å få god oppfølging om muligheten til å utforske samt vokse som utviklere. 
+
 
 
