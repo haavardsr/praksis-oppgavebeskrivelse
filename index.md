@@ -1,8 +1,14 @@
-## Praksis: Oppgaver hos Sikri
+## Praksis - Sikri
+
+## Håvard, Mehmet og Bjørnar
 
 
+### Våre forventninger
 
-### Beskrivelse fra Sikri
+Få godt læringsutbytte og lære noe som jeg kommer til å ha bruk for videre i arbeidslivet.Vi ønsker å lære om utvikling og hvordan det er å jobbe i som team på en bedrift. 
+Vi forventer oss et arbeidsmiljø som legger til rette for god kvalitet i produkt. Fra Sikri forventer vi å få god oppfølging om muligheten til å utforske samt vokse som utviklere. 
+
+### Oppgavebeskrivelse
 
 Hvordan gjennomføre søk som går på tvers av systemer levert 
 av forskjellige leverandører? Mange sitter med historiske 
@@ -18,11 +24,14 @@ andre løsninger. Oppgaven inkluderer også vurdering av
 datatilgang – hvordan hindre at saksbehandler får innsyn i 
 data vedkommende ikke burde ha sett?
 
+### Status 1
 
-### Våre forventninger
+### Status 2
 
-Få godt læringsutbytte og lære noe som jeg kommer til å ha bruk for videre i arbeidslivet.Vi ønsker å lære om utvikling og hvordan det er å jobbe i som team på en bedrift. 
-Vi forventer oss et arbeidsmiljø som legger til rette for god kvalitet i produkt. Fra Sikri forventer vi å få god oppfølging om muligheten til å utforske samt vokse som utviklere. 
+### Avsluttende Refleksjon
+
+
+
 
 
 
