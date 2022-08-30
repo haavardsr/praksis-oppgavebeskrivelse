@@ -1,6 +1,5 @@
 ## Praksis - Sikri
-
-## Håvard, Mehmet og Bjørnar
+Håvard, Mehmet og Bjørnar
 
 
 ### Våre forventninger
