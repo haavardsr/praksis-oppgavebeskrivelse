@@ -61,8 +61,6 @@ Vi har vært så heldige å fått muligheten av å være i praksis hos Sikri. He
 
 ![IMG_1433](https://user-images.githubusercontent.com/79541783/196893650-833df163-b0b4-45ce-8366-a103c1116561.jpg)
 
-![Funker ikke](/IMG_1433.JPG?raw=false "Oss")
-
 #### Bjørnar Sømme, 21 år
 Så langt har jeg likt mest backend-utviklingen. Det er alltid gøy å møte på nye problemer, og kjenne på følelsen av å løse disse. Noe jeg har tatt med meg fra tidligere studier inn i dette arbeidet er generell kunnskap innen programutvikling. Grunnet relativt tidligere lite erfaring med utvikling av et komplette systemer, har det vært spennende å få gjort dette i praksis, hos en bedrift med mye kompetanse innen feltet. Til tross for dette har jeg fått bruk for kompetanse jeg har bygget opp gjennom studiet. For eksempel, så har programmeringsprosjektet, flere fag innen Java-programmering og databaserelaterte emner forberedt meg på flere av utfordringene jeg har møtt på. 
 
