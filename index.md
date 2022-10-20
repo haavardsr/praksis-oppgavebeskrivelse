@@ -58,7 +58,7 @@ Videre fortsetter vi i samme bane vi er i nå. Vi håper på å få nødvendig i
 
 Vi har vært så heldige å fått muligheten av å være i praksis hos Sikri. Her jobber vi med utviklingen av et system som tar utgangspunkt i deres opprinnelige sakarkiv-søkesystem til å kunne søke på tvers av forskjellige datakilder. Gjennom praksisoppholdet har vi fått god introduksjon til rammeverket ASP.NET, programvaren C#, lært oss React.js, og generelt bygget opp mer kunnskap innen programutvikling. 
 
-![Alt text](/../IMG_1433.JPG?raw=true "Oss")
+![Alt text](/IMG_1433.JPG?raw=true "Oss")
 
 #### Bjørnar Sømme, 21 år
 Så langt har jeg likt mest backend-utviklingen. Det er alltid gøy å møte på nye problemer, og kjenne på følelsen av å løse disse. Noe jeg har tatt med meg fra tidligere studier inn i dette arbeidet er generell kunnskap innen programutvikling. Grunnet relativt tidligere lite erfaring med utvikling av et komplette systemer, har det vært spennende å få gjort dette i praksis, hos en bedrift med mye kompetanse innen feltet. Til tross for dette har jeg fått bruk for kompetanse jeg har bygget opp gjennom studiet. For eksempel, så har programmeringsprosjektet, flere fag innen Java-programmering og databaserelaterte emner forberedt meg på flere av utfordringene jeg har møtt på. 
