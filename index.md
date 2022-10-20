@@ -58,6 +58,9 @@ Videre fortsetter vi i samme bane vi er i nå. Vi håper på å få nødvendig i
 
 Vi har vært så heldige å fått muligheten av å være i praksis hos Sikri. Her jobber vi med utviklingen av et system som tar utgangspunkt i deres opprinnelige sakarkiv-søkesystem til å kunne søke på tvers av forskjellige datakilder. Gjennom praksisoppholdet har vi fått god introduksjon til rammeverket ASP.NET, programvaren C#, lært oss React.js, og generelt bygget opp mer kunnskap innen programutvikling. 
 
+
+![IMG_1433](https://user-images.githubusercontent.com/79541783/196893650-833df163-b0b4-45ce-8366-a103c1116561.jpg)
+
 ![Funker ikke](/IMG_1433.JPG?raw=false "Oss")
 
 #### Bjørnar Sømme, 21 år
