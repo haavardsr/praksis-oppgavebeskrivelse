@@ -56,6 +56,24 @@ Videre fortsetter vi i samme bane vi er i nå. Vi håper på å få nødvendig i
 
 ### Vår praksis hos Sikri
 
+Vi har vært så heldige å fått muligheten av å være i praksis hos Sikri. Her jobber vi med utviklingen av et system som tar utgangspunkt i deres opprinnelige sakarkiv-søkesystem til å kunne søke på tvers av forskjellige datakilder. Gjennom praksisoppholdet har vi fått god introduksjon til rammeverket ASP.NET, programvaren C#, lært oss React.js, og generelt bygget opp mer kunnskap innen programutvikling. 
+
+#### Bjørnar Sømme, 21 år
+Så langt har jeg likt mest backend-utviklingen. Det er alltid gøy å møte på nye problemer, og kjenne på følelsen av å løse disse. Noe jeg har tatt med meg fra tidligere studier inn i dette arbeidet er generell kunnskap innen programutvikling. Grunnet relativt tidligere lite erfaring med utvikling av et komplette systemer, har det vært spennende å få gjort dette i praksis, hos en bedrift med mye kompetanse innen feltet. Til tross for dette har jeg fått bruk for kompetanse jeg har bygget opp gjennom studiet. For eksempel, så har programmeringsprosjektet, flere fag innen Java-programmering og databaserelaterte emner forberedt meg på flere av utfordringene jeg har møtt på. 
+
+Oppholdet så langt har bydd på mye utfordring, kunnskap og skapt nye relasjoner til dyktige folk, og noe av det gøyest med dette har vært å se hvordan en fremtidig arbeidsplass kan se ut for meg. Inkludert i dette er både det tekniske arbeidet som har blitt gjort, men også prosesser og samarbeid på arbeidsplassen.
+
+#### Mehmet Eksi, 23 år
+Det jeg har likt spesielt godt hos Sikri er hvor utfordrende det har vært. Jeg liker at vi har fått vårt eget sted å jobbe på innenfor kontoret til Sikri som gjør det mer motiverende å jobbe istedenfor å være hjemme eller på skolen. Jeg liker at vi koder i språk som blir brukt ofte i andre bedrifter og at vi jobber med å bygge noe ut ifra et faktisk system. Jeg liker spesielt å kode i front-end i forhold til backend fordi jeg føler jeg mestrer det mest. Jeg har lært så langt hvordan MVC fungerer i ASP.NET og deler av backend for systemet vi holder på å lage.
+
+Jeg har hatt bruk for alt av det jeg har lært fra programmeringsfag som Objektorientert programmering og programmeringsprosjekt fordi det vi holder på tar i bruk store deler av disse fagene. Gøyeste jeg har gjort er å få systemet til å printe ut på skjermen og få ting til å kommunisere med hverandre. Det tok en god del tid for meg både å forstå og få dette til å fungere som vi ønsket sammen med gruppen.
+
+#### Håvard Sommer Rosenlund, 27 år
+Det er mange ting som er svært artig og interessant hos sikri. Blant annet at man får prøvd seg i det virkelige arbeidslivet, samt at man får oppgaver som man ser nytten av. Det er også en god opplevelse å være en del av kontoret. Med sin egen arbeidsplass og miljø. Setter svært stor pris på måten Sikri har tatt oss studenter imot. Hos Sikri så har jeg lært svært mye. Har satt meg inn i et helt nytt kodespråk C#, satt meg inn i .NET, React, ASP.NET. Fått en bedre forståelse på hvordan databaser fungere og kommuniserer samt mye mer. Det jeg har hatt mest bruk fra mitt studie så lang er forståelsen på hvordan et kodespråk er bygget opp. med dette blir det enklere å lære seg ett nytt ett. Samt min kunnskap om databaser fra før av.
+
+Det gøyeste jeg har gjort så lang er å se fremgang på at ting fungere sammen med gruppen i form av backend og frontend. Synes også det er artig å vise fram hva vi har klart å gjøre til prosjektveileder.
+
+
 ### Avsluttende Refleksjon
 
 
