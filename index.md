@@ -78,6 +78,14 @@ Det gøyeste jeg har gjort så lang er å se fremgang på at ting fungere sammen
 
 
 ### Avsluttende Refleksjon
+Praksisoppholdet har vært svært lærerikt. I startfasen ble det fokusert mye på å sette seg inn i både nye teknologier, samt systemet vi skulle arbeide ut ifra. En typisk arbeidsuke har bestått av tre deler. Onsdagene møttes vi på universitetet og jobbet, torsdagene var vi på kontoret til Sikri, og ellers arbeidet vi individuelt. Hver torsdag hadde vi et 30 minutters møte med praksisveileder hvor vi kunne vise hva vi hadde gjort siden sist, spørre om ting, og få tilbakemelding på videre steg. I tillegg til dette hadde vi en kanal på Teams hvor vi kunne spørre om hva vi måtte lure på. Både god kommunikasjon mellom gruppen og veileder, samt innad i gruppen, skapte en god dynamikk for praksisarbeidet. Noe som ble fokusert på mer og mer, var det å utvikle i plenum som resulterte i en mer inkluderende læring og forståelse.
+
+Som utbytte av prosjektet har vi lært oss nye teknologier og oppnådd mer kjennskap til arbeidslivet. Med mest erfaring innen programmering i Java og JavaScript, ble vi utfordret til å sette oss inn i nye språk. Det ble klart at oppgaven skulle bruke .NET (C#) i backend og React.js til frontend. Begge disse er svært aktuelle innen dagens programutvikling. Tiden avsatt til å sette seg inn i språkene i starten av semesteret ga oss litt grunnlag for arbeidet, men det meste av læringsutbytte kom gjennom selve utviklingen og kommunikasjon med praksisveileder. Medlemmene på gruppen hadde forskjellige styrkeområder, som ledet til at det ble annerledes ansvar mellom frontend- og backend utvikling. Til tross for dette fikk samtlige mulighet til å jobbe med det dem ønsket mest.
+
+Det resulterende systemet ble noe preget av tilgang til ressursene. Både tilgang til de planlagte nye datakildene, samt innloggingsmuligheter, var utilgjengelig. Med konseptet i å kunne foreta søk på tvers av systemer, ga veileder oss oppgaven i å bruke Google Custom Search som ny kilde. Oppgaven ble derav mer et “proof of concept”. Prosjektets resultat av backend ble en API som utfører søk i de to kildene, formaterer resultatene likt, og returnerer dette. Frontend sender requests til APIen og fremviser søkeresultatet. Grunnet uttrykt at frontend primært skulle fungere, ikke nødvendigvis se bra ut, ble utseende av denne ikke prioritert. Alt i alt, fikk vi vist et fungerende konseptet av oppgaven. 
+
+Oppholdet hos Sikri har vært en positiv erfaring. Det har alltid vært noen å spørre om hjelp, og det har vært tydeliggjort hvordan de setter av ressurser til oss studenter. Siden vi har oppholdt oss i et møterom på kontoret og samarbeidet med Oslo-teamet har vi gjerne ikke hatt utrolig mye kontakt med dem på kontoret i Kristiansand, men det har ofte skjedd at de banker på å sier hei. Valget i å ha praksis, samt søke hos Sikri, er noe vi alle ville gjort om vi skulle velge igjen. 
+
 
 
 
